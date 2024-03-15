@@ -3,7 +3,7 @@
 ## Usage
 发送请求：see client.py
 
-返回格式：list of meta json of searched danbooru images. 
+返回格式：a list of meta json of searched danbooru images. 
 
 Example:
 ```
