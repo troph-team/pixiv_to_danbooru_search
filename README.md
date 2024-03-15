@@ -1,4 +1,4 @@
-# pixiv to danbooru_search
+# pixiv to danbooru search
 
 ## Usage
 发送请求：see client.py
